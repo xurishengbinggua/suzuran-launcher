@@ -26,4 +26,5 @@ Suzuran Launcher does not collect, upload or sell any personal information.
 
 ## 联系方式 / Contact
 
-<!-- 填入联系邮箱 -->
+- GitHub Issues：<https://github.com/xurishengbinggua/suzuran-launcher/issues>
+- 项目主页：<https://github.com/xurishengbinggua/suzuran-launcher>
